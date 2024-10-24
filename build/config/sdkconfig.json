@@ -364,7 +364,7 @@
     "EXAMPLE_CONNECT_IPV6_PREF_UNIQUE_LOCAL": false,
     "EXAMPLE_CONNECT_WIFI": true,
     "EXAMPLE_ENABLE_PARTIAL_HTTP_DOWNLOAD": true,
-    "EXAMPLE_FIRMWARE_UPGRADE_URL": "https://raw.githubusercontent.com/FBSeletronica/ESP-IDF_OTA/main/ota-advanced/bin/ota-advanced.bin",
+    "EXAMPLE_FIRMWARE_UPGRADE_URL": "https://raw.githubusercontent.com/FBSeletronica/test/main/bin/ota-advanced.bin",
     "EXAMPLE_HTTP_REQUEST_SIZE": 16384,
     "EXAMPLE_OTA_RECV_TIMEOUT": 5000,
     "EXAMPLE_PROVIDE_WIFI_CONSOLE_CMD": true,

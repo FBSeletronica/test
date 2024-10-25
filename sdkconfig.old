@@ -374,7 +374,7 @@ CONFIG_PARTITION_TABLE_MD5=y
 #
 # Example Configuration
 #
-CONFIG_EXAMPLE_FIRMWARE_UPGRADE_URL="https://raw.githubusercontent.com/FBSeletronica/ESP-IDF_OTA/main/ota-advanced/bin/ota-advanced.bin"
+CONFIG_EXAMPLE_FIRMWARE_UPGRADE_URL="https://raw.githubusercontent.com/FBSeletronica/test/main/bin/ota-advanced.bin"
 # CONFIG_EXAMPLE_SKIP_COMMON_NAME_CHECK is not set
 # CONFIG_EXAMPLE_SKIP_VERSION_CHECK is not set
 CONFIG_EXAMPLE_OTA_RECV_TIMEOUT=5000

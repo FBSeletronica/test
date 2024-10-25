@@ -271,6 +271,14 @@ void app_main(void)
         ESP_LOGE(TAG, "Failed to get running firmware information");
     }
 
+    // Imprimir informações sobre a partição que está rodando a aplicação atual
+    ESP_LOGI(TAG, "Running partition information:");
+    //ESP_LOGI(TAG, "  Type: %u", running_partition->type);
+    //ESP_LOGI(TAG, "  Subtype: %d", running_partition->subtype);
+    //ESP_LOGI(TAG, "  Address: 0x%08x", running_partition->address);
+    //ESP_LOGI(TAG, "  Size: 0x%08x bytes", running_partition->size);
+    ESP_LOGI(TAG, "  Label: %s", running_partition->label);
+
     // Initialize NVS (Non-Volatile Storage)
     esp_err_t err = nvs_flash_init();
     if (err == ESP_ERR_NVS_NO_FREE_PAGES || err == ESP_ERR_NVS_NEW_VERSION_FOUND) {

@@ -1,7 +1,7 @@
 {
     "version":            "1.1",
     "project_name":       "ota-advanced",
-    "project_version":    "0.1",
+    "project_version":    "0.0",
     "project_path":       "C:/Users/fabio/esp/ota-advanced",
     "idf_path":           "C:/Espressif/frameworks/v5.2.3/esp-idf",
     "build_dir":          "C:/Users/fabio/esp/ota-advanced/build",

@@ -1897,3 +1897,5 @@
 56457	56775	7515188338782997	C:/Users/fabio/esp/ota-advanced/build/.bin_timestamp	539f8cb2ce191cc6
 56775	56870	0	esp-idf/esptool_py/CMakeFiles/app_check_size	88703aecc27a624b
 56775	56870	0	C:/Users/fabio/esp/ota-advanced/build/esp-idf/esptool_py/CMakeFiles/app_check_size	88703aecc27a624b
+85	2668037	0	CMakeFiles/confserver	8526729b21feaadf
+85	2668037	0	C:/Users/fabio/esp/ota-advanced/build/CMakeFiles/confserver	8526729b21feaadf
